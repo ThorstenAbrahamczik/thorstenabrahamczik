@@ -13,9 +13,9 @@ params:
     logo_img: images/logo_alt.png
     tagline: Produktmanagement, Webanalyse & SEO
     has_nav: true
-    nav_title: Company
+    nav_title: Allgemeines
     has_social: true
-    social_title: Community
+    social_title: Social
     has_subscribe: false
     subscribe_title: Jetzt anmelden!
     subscribe_content: Bleibe mit den aktuellen Entwicklungen auf dem Laufenden
