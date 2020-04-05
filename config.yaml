@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     title: thorsten.abrahamczik.com
-    logo_img: "/images/logo.svg"
+    logo_img: "/images/logo-1.png"
     has_nav: true
     menu:
       actions: []
