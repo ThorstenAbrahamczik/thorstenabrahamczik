@@ -19,7 +19,7 @@ params:
     has_subscribe: false
     subscribe_title: Jetzt anmelden!
     subscribe_content: Bleibe mit den aktuellen Entwicklungen auf dem Laufenden
-    content: "&copy; &year; thorsten.abrahamczik.com"
+    content: "&copy; [year] thorsten.abrahamczik.com"
     links: []
 disableKinds:
 - RSS
