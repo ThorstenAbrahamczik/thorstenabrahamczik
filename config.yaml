@@ -1,5 +1,6 @@
-title: Stackbit Azimuth Theme
-baseURL: /
+---
+title: Thorsten Abrahamczik
+baseURL: "/"
 params:
   palette: blue
   header:
@@ -8,8 +9,8 @@ params:
     has_nav: true
     menu:
       actions:
-        - label: Sign Up
-          url: /signup
+      - label: Sign Up
+        url: "/signup"
   footer:
     logo_img: images/logo_alt.png
     tagline: SaaS theme by Stackbit
@@ -20,12 +21,12 @@ params:
     has_subscribe: true
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; Stackbit. All rights reserved.'
+    content: "&copy; Stackbit. All rights reserved."
     links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+    - text: Made with Stackbit
+      url: https://www.stackbit.com
+      new_window: true
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
