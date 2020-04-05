@@ -4,13 +4,11 @@ baseURL: "/"
 params:
   palette: blue
   header:
-    title: Azimuth
+    title: thorsten.abrahamczik.com
     logo_img: images/logo.png
     has_nav: true
     menu:
-      actions:
-      - label: Sign Up
-        url: "/signup"
+      actions: []
   footer:
     logo_img: images/logo_alt.png
     tagline: SaaS theme by Stackbit
