@@ -10,7 +10,7 @@ params:
     menu:
       actions: []
   footer:
-    logo_img: images/logo_alt.png
+    logo_img: "/images/logo-1.png"
     tagline: Produktmanagement, Webanalyse & SEO
     has_nav: true
     nav_title: Allgemeines
